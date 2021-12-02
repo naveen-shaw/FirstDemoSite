@@ -1,0 +1,37 @@
+body {
+
+    background-color: #EAF6F6;
+}
+
+h1 {
+    
+    color: #b63f37;
+}
+.acadmic {
+    background-color: rgb(83, 148, 148);
+}
+.hobby {
+    background-color: rgb(201, 126, 36);
+}
+.prize {
+    background-color: aquamarine;
+}
+.circular {
+    border-radius: 100%;
+}
+img:hover {
+    
+    background-color: gold;
+}
+#circular {
+    border-radius: 100%;
+}
+hr {
+
+    background-color: antiquewhite;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 25%;
+}
